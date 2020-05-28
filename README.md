@@ -16,5 +16,11 @@
 
 ###### git add readme.md
 
+###### 6.git 文件管理有三种状态 modfied staged commited
+
+7.git --hard HEAD^ 表示回退到上一个版本
+
+
+
 
 
